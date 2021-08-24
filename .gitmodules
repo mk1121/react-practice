@@ -1,0 +1,33 @@
+[submodule "ema-jhon"]
+	path = ema-jhon
+	url = /ema-jhon/
+[submodule "ema-jhon-old"]
+	path = ema-jhon-old
+	url = /ema-jhon-old/
+[submodule "ema-jhon-router"]
+	path = ema-jhon-router
+	url = /ema-jhon-router/
+[submodule "react-app"]
+	path = react-app
+	url = /react-app/
+[submodule "react-my-first-app"]
+	path = react-my-first-app
+	url = /react-my-first-app/
+[submodule "recap-react-component"]
+	path = recap-react-component
+	url = /recap-react-component/
+[submodule "simple-react-app"]
+	path = simple-react-app
+	url = /simple-react-app/
+[submodule "simple-react"]
+	path = simple-react
+	url = /simple-react/
+[submodule "simple-udai-my"]
+	path = simple-udai-my
+	url = /simple-udai-my/
+[submodule "team-builder"]
+	path = team-builder
+	url = /team-builder/
+[submodule "team-builder2"]
+	path = team-builder2
+	url = /team-builder2/
