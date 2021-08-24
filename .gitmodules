@@ -27,7 +27,7 @@
 	url = /simple-udai-my/
 [submodule "team-builder"]
 	path = team-builder
-	url = /team-builder/
+	url = https://github.com/mk1121/team-builder-reactteam-builder
 [submodule "team-builder2"]
 	path = team-builder2
 	url = /team-builder2/
